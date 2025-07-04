@@ -15,7 +15,7 @@
 ###
 
 <p align="left">
-I'm a junior <strong>Full Stack Developer</strong>. My name is Sasha.  
+I'm a junior <strong>Full Stack Developer</strong>. My name is Alex.  
 My IT journey began in <strong>2023</strong> with the <strong>FullStack course at GoIT</strong>, where I studied <strong>React + Node.js</strong>.  
 During the course, I took part in several team pet projects.  
 Since then, I’ve been improving my skills daily — coding, learning, and exploring best development practices.  
