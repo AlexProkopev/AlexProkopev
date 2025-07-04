@@ -27,6 +27,12 @@ I work with a modern stack: <strong>JavaScript / React / Redux Toolkit / Node.js
 <br><br>
 <strong>I am currently looking for a position as a trainee, junior Full Stack or Frontend developer.</strong>  
 </p>
+
+<div align="center">
+<a href="https://smallpdf.com/ru/file#s=c2330423-8093-485a-88f3-dd64f7f69b13" target="_blank">
+Completed the FullStack Developer course at GoIT in 2023 — intensive training in React, Node.js, and modern web technologies.
+</a> 
+</div> 
   
   
 
